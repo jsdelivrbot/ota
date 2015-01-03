@@ -22,6 +22,8 @@
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>Codepixl (Aaron Sonin)</string>
 				<key>title</key>
 				<string>MathHelper</string>
 			</dict>
